@@ -1,0 +1,1 @@
+<footer><div><b>Encuéntralo</b><p>Objetos perdidos · Personas conectadas</p></div><p>Proyecto de emprendimiento tecnológico · 2026</p></footer><script src="<?=url('assets/js/app.js')?>"></script></body></html>
